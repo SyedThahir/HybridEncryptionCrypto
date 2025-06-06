@@ -75,10 +75,6 @@ The GUI provides several sections:
 - RSA implementation uses OAEP padding with SHA-256
 - Key sizes: AES (128-bit), RSA (2048-bit)
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
 ## License
 
 [MIT License](LICENSE) 
