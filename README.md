@@ -74,7 +74,3 @@ The GUI provides several sections:
 - The AES implementation uses CBC mode with random IV
 - RSA implementation uses OAEP padding with SHA-256
 - Key sizes: AES (128-bit), RSA (2048-bit)
-
-## License
-
-[MIT License](LICENSE) 
